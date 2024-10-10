@@ -20,7 +20,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 ## 📆 Agenda
 
-### Day 1: 🚀 Getting started
+### Day 1: 🚀 Getting started (2024-10-09)
 
 - [ ] Introduction and Icebreaker
 - [ ] GitHub Actions Fundamentals
