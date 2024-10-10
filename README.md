@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals Training Workshop
 
-Repo for the `GitHub Actions Fundamentals` training.
+Repo for the `GitHub Actions Fundamentals` training workshop.
 
 ## 👉 Objectives
 
